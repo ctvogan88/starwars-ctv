@@ -1,2 +1,2 @@
-# starwars-ctv
-FS starwars encyclopedia deployment test
+# starwars-cbc
+Star Wars Full Stack
